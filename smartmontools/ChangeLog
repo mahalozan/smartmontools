@@ -1,5 +1,10 @@
 $Id$
 
+2022-10-02  Marko Halozan  <marko.halozan@gmail.com>
+
+	drivedb.h:
+	- SSDSC2BB240G4C
+
 2022-09-18  Christian Franke  <franke@computer.org>
 
 	os_win32.cpp: Add IOCTL_STORAGE_PROTOCOL_COMMAND for NVMe self-tests.
